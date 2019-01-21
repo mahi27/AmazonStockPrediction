@@ -14,3 +14,7 @@ To understand the capabilities of LSTMs,  I got the Amazon stock price data usin
 |Holt's Linear Trend Method   | 37990.49            |
 |Holt-Winters Method          | 35639.95            |
 |LSTM                         | 3519.83550          |
+
+
+Time series Methods
+![alt text](https://github.com/mahi27/TimeSeriesForecasting/blob/master/amazondata.png "Time Series Methods")
