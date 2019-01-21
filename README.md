@@ -13,7 +13,7 @@ To understand the capabilities of LSTMs,  I got the Amazon stock price data usin
 | ARIMA                       | 121021.70           |
 |Holt's Linear Trend Method   | 37990.49            |
 |Holt-Winters Method          | 35639.95            |
-|LSTM                         | 3519.83550          |
+|LSTM                         | 3519.83             |
 
 
 Time series Methods
